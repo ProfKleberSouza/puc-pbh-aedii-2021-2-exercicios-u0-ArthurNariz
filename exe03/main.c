@@ -9,10 +9,8 @@ int main() {
 
    if(resto == 0 && n > 0){
      printf("NUMERO PAR POSITIVO");
-
    }
-   
-  if(resto == 1 && n < 0 ){
+   if(resto == -1 && n < 0 ){
      printf("NUMERO IMPAR NEGATIVO");
    }
    if(resto == 0 && n < 0 ){

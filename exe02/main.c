@@ -17,7 +17,7 @@ int main() {
    printf("\nV = %d", V);
    printf("\nT = %d", T);
    printf("\nD = %d", D);
-   printf("\nL = %d", L);
+   printf("\nL = %d\n", L);
   
   
   
